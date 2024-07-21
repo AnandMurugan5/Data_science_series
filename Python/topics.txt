@@ -1,0 +1,5 @@
+Introduction to Python
+Data Structures and Algorithms
+Pandas for Data Manipulation
+NumPy for Numerical Computing
+Matplotlib and Seaborn for Data Visualization

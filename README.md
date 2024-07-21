@@ -1,6 +1,6 @@
 # Data Science Project Repository
 
-Welcome to my Data Science Project Repository! 🚀
+Welcome to my Data Science Series - Begi to Expert in DS&ML Repository! 🚀
 
 This repository is a comprehensive collection of projects and resources designed to take you from a beginner to an expert in the field of data science. Here, you'll find a variety of topics covered, including:
 
